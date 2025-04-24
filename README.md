@@ -149,10 +149,12 @@ J 0 <br>
 <h2>Sample Output</h2>
 <hr>
 Path found: ['A', 'F', 'G', 'I', 'J']
+![Screenshot 2025-04-24 112919](https://github.com/user-attachments/assets/9168c104-93fc-42c7-b27b-bede5e8b7a0e)
 
 <hr>
 <h2>Sample Graph II</h2>
 <hr>
+![image](https://github.com/user-attachments/assets/45d10f44-eae6-476a-aa82-504c505cccfa)
 
 
 
