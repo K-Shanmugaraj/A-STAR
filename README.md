@@ -1,5 +1,5 @@
 <h1>ExpNo 4 : Implement A* search algorithm for a Graph</h1> 
-<h3>Name: Shanmuga Rsj.K </h3>
+<h3>Name: Shanmuga Raj.K </h3>
 <h3>Register Number: 212223040192 </h3>
 <H3>Aim:</H3>
 <p>To ImplementA * Search algorithm for a Graph using Python 3.</p>
