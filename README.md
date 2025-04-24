@@ -1,6 +1,6 @@
 <h1>ExpNo 4 : Implement A* search algorithm for a Graph</h1> 
-<h3>Name: Shanmuga Raj.K </h3>
-<h3>Register Number: 212223040192 </h3>
+<h3>Name: Ashwin Akash M </h3>
+<h3>Register Number: 212223230024 </h3>
 <H3>Aim:</H3>
 <p>To ImplementA * Search algorithm for a Graph using Python 3.</p>
 <H3>Algorithm:</H3>
@@ -154,8 +154,8 @@ Path found: ['A', 'F', 'G', 'I', 'J']
 <hr>
 <h2>Sample Graph II</h2>
 <hr>
-![Screenshot 2025-04-24 112919](https://github.com/user-attachments/assets/92d25c2b-859b-4d3a-b9f9-7f21ad917793)
 
+![image](https://github.com/user-attachments/assets/2e2193bf-73a0-43d2-95c3-6de251b744f9)
 
 
 
@@ -179,8 +179,7 @@ G 0 <br>
 <h2>Sample Output</h2>
 <hr>
 Path found: ['A', 'E', 'D', 'G']
-![Screenshot 2025-04-24 113147](https://github.com/user-attachments/assets/c3a585b8-98da-4955-9bfe-8c514c8c42c4)
-
+<image src="image-2.png"></image>
 
 <h2>RESULT :</h2>
 Thus a graph was constructed and implemantation of A star Search for the same graph was done successfully.
