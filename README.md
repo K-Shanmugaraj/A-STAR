@@ -106,13 +106,14 @@ goal=input()
 aStarAlgo(start, goal)
 </code></pre>
 
-<image src="image.png"></image>
+
 
 
 <hr>
 <h2>Sample Graph I</h2>
 <hr>
 
+![image](https://github.com/user-attachments/assets/b5be52a9-588f-4969-a645-7b194426f339)
 
 
 <hr>
@@ -149,13 +150,10 @@ J 0 <br>
 <hr>
 Path found: ['A', 'F', 'G', 'I', 'J']
 
-<img src="image-1.png" alt="out1.jpg">
-
 <hr>
 <h2>Sample Graph II</h2>
 <hr>
 
-![image](https://github.com/user-attachments/assets/2e2193bf-73a0-43d2-95c3-6de251b744f9)
 
 
 
@@ -179,7 +177,6 @@ G 0 <br>
 <h2>Sample Output</h2>
 <hr>
 Path found: ['A', 'E', 'D', 'G']
-<image src="image-2.png"></image>
 
 <h2>RESULT :</h2>
 Thus a graph was constructed and implemantation of A star Search for the same graph was done successfully.
