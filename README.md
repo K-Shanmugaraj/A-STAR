@@ -109,17 +109,13 @@ aStarAlgo(start, goal)
 
 
 
-<hr>
-<h2>Sample Graph I</h2>
-<hr>
+
+## Sample Graph I
 
 ![image](https://github.com/user-attachments/assets/b5be52a9-588f-4969-a645-7b194426f339)
 
+## Sample Input
 
-<hr>
-
-<h2>Sample Input</h2>
-<hr>
 10 14 <br>
 A B 6 <br>
 A F 3 <br>
@@ -145,23 +141,22 @@ G 5 <br>
 H 3 <br>
 I 1 <br>
 J 0 <br>
-<hr>
-<h2>Sample Output</h2>
-<hr>
+
+## Sample Output
+
 Path found: ['A', 'F', 'G', 'I', 'J']
 ![Screenshot 2025-04-24 112919](https://github.com/user-attachments/assets/9168c104-93fc-42c7-b27b-bede5e8b7a0e)
 
-<hr>
-<h2>Sample Graph II</h2>
-<hr>
+
+## Sample Graph II
+
 ![image](https://github.com/user-attachments/assets/45d10f44-eae6-476a-aa82-504c505cccfa)
 
 
 
 
-<hr>
-<h2>Sample Input</h2>
-<hr>
+## Sample Input
+
 6 6 <br>
 A B 2 <br>
 B C 1 <br>
@@ -175,10 +170,10 @@ C 99 <br>
 E 7 <br>
 D 1 <br>
 G 0 <br>
-<hr>
-<h2>Sample Output</h2>
-<hr>
+
+## Sample Output
+
 Path found: ['A', 'E', 'D', 'G']
 
-<h2>RESULT :</h2>
+## RESULT :
 Thus a graph was constructed and implemantation of A star Search for the same graph was done successfully.
